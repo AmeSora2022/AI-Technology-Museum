@@ -1,16 +1,14 @@
-
-
 # AI Technology Museum｜ 世界首个AI技术博物馆 ｜ World's first AI Museum
 
 ## 项目简介 | Project Introduction
 AI Technology Museum是世界首个人工智能AI技术博物馆，属于互联网公共项目计划的一部分。  
 AI Technology Museum is the world's first museum dedicated to artificial intelligence (AI) technology and is part of an internet public project initiative.
 
-它由[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 创建于2025年4月8日。  
+它由[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 发起于2025年4月8日。  
 It was created by [BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) on April 8, 2025.
 
-开发团队叫[@弦外雨穹 Unspoken Rainverse](https://github.com/Unspoken-Rainverse) 。  
-The development team is called [@弦外雨穹 Unspoken Rainverse](https://github.com/Unspoken-Rainverse).
+开发团队是[@雨空深境 Rainverse](https://github.com/Void-Rainverse) 。  
+The development team is called [@雨空深境 Rainverse](https://github.com/Void-Rainverse).
 
 ## 项目目标 | Project Objectives
 本博物馆旨在展示AI技术发展的起源，历程，重要的历史节点和著名论文，脉络和产品。  
@@ -20,8 +18,8 @@ This museum aims to showcase the origin, development, significant historical mil
 Through a semi-wiki-style 3D and interactive experience, it explores the past, present, and future of AI technology.
 
 ## 开发团队 | Development Team
-[@弦外雨穹 Unspoken Rainverse](https://github.com/Unspoken-Rainverse) 团队负责该博物馆的开发与运营。  
-The [@弦外雨穹 Unspoken Rainverse](https://github.com/Unspoken-Rainverse) team is responsible for the development and operation of this museum.
+[@雨空深境 Rainverse](https://github.com/Void-Rainverse)团队负责该博物馆的开发与运营。  
+The [@雨空深境 Rainverse](https://github.com/Void-Rainverse)team is responsible for the development and operation of this museum.
 
 该团队会基于这个博物馆制作很多计算机科学，AI技术相关的视频媒体内容和Wiki文库。  
 The team will produce a wealth of video media content and Wiki repositories related to computer science and AI technology based on this museum.
@@ -41,8 +39,8 @@ We welcome everyone interested in AI technology to participate in this project, 
 You can contribute to the project by submitting Pull Requests, sharing your ideas in the Issue section, etc.
 
 ## 联系方式 | Contact Information
-如果你有任何问题或建议，欢迎通过BiliBili私信[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 或[@弦外雨穹 Unspoken Rainverse](https://github.com/Unspoken-Rainverse) 团队联系我们。  
-If you have any questions or suggestions, feel free to contact us via private messages on BiliBili to @雨空AmeSora or the @弦外雨穹 Unspoken Rainverse team.
+如果你有任何问题或建议，欢迎通过BiliBili私信[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 或[@雨空深境 Rainverse](https://github.com/Void-Rainverse) 团队联系我们。  
+If you have any questions or suggestions, feel free to contact us via private messages on BiliBili to[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573)  or the [@雨空深境 Rainverse](https://github.com/Void-Rainverse)team.
 
 让我们一起携手，共同推动AI技术的发展和普及！  
 Let's work together to promote the development and popularization of AI technology!
