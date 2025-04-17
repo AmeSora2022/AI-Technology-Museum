@@ -4,8 +4,8 @@
 AI Technology Museum是世界首个人工智能AI技术博物馆，属于互联网公共项目计划的一部分。  
 AI Technology Museum is the world's first museum dedicated to artificial intelligence (AI) technology and is part of an internet public project initiative.
 
-它由[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 发起于2025年4月8日。  
-It was created by [BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) on April 8, 2025.
+它由[BiliBili@元千宵](https://space.bilibili.com/666714573) 发起于2025年4月8日。  
+It was created by [BiliBili@元千宵](https://space.bilibili.com/666714573) on April 8, 2025.
 
 开发团队是[@雨空深境 Rainverse](https://github.com/Void-Rainverse) 。  
 The development team is called [@雨空深境 Rainverse](https://github.com/Void-Rainverse).
@@ -39,8 +39,8 @@ We welcome everyone interested in AI technology to participate in this project, 
 You can contribute to the project by submitting Pull Requests, sharing your ideas in the Issue section, etc.
 
 ## 联系方式 | Contact Information
-如果你有任何问题或建议，欢迎通过BiliBili私信[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573) 或[@雨空深境 Rainverse](https://github.com/Void-Rainverse) 团队联系我们。  
-If you have any questions or suggestions, feel free to contact us via private messages on BiliBili to[BiliBili@雨空AmeSora](https://space.bilibili.com/666714573)  or the [@雨空深境 Rainverse](https://github.com/Void-Rainverse)team.
+如果你有任何问题或建议，欢迎通过BiliBili私信[BiliBili@元千宵](https://space.bilibili.com/666714573) 或[@雨空深境 Rainverse](https://github.com/Void-Rainverse) 团队联系我们。  
+If you have any questions or suggestions, feel free to contact us via private messages on BiliBili to[BiliBili@元千宵](https://space.bilibili.com/666714573)  or the [@雨空深境 Rainverse](https://github.com/Void-Rainverse)team.
 
 让我们一起携手，共同推动AI技术的发展和普及！  
 Let's work together to promote the development and popularization of AI technology!
